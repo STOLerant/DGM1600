@@ -9,3 +9,5 @@ Micro drones
 Autonomous drones
 
 Military drones
+
+Fixed wing drones

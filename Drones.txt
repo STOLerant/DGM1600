@@ -7,3 +7,5 @@ Filming Drones
 Micro drones
 
 Autonomous drones
+
+Military drones

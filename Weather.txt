@@ -3,3 +3,5 @@ Salt Lake City Weather
 Provo weather
 
 Los Angeles Weather
+
+Long Beach weather

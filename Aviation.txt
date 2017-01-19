@@ -17,3 +17,4 @@ Ferry Flying
 Career path
 
 Local Airports - KSLC Salt Lake City
+ 	Airspace: Class B

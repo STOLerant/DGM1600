@@ -17,6 +17,7 @@ Ferry Flying
 Career path
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aviation Accidents
 
 Local Airports - U42 South Valley Regional
@@ -25,3 +26,7 @@ Local Airports - U42 South Valley Regional
 Local Airports - KPVU Provo
 	Airspace: Class D
 >>>>>>> Branch_2
+=======
+Local Airports - KSLC Salt Lake City
+ 	Airspace: Class B
+>>>>>>> Branch_3

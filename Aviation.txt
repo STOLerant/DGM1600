@@ -17,3 +17,4 @@ Ferry Flying
 Career path
 
 Local Airports - KPVU Provo
+	Airspace: Class D

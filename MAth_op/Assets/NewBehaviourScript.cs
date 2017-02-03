@@ -15,8 +15,8 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Start () {
         addition += 9;// += adds to
         subtraction -= 10; // subtract from
-        addition += 3;
-        addition = 1;
+        addition += 3;// do top then add 3
+        addition = 1;// overrides all others
 
 
 	}
